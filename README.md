@@ -2,7 +2,7 @@
 
 -> It a CustomTkinter app build for learning purpose.
 
--> You can upload image enter a key.
+-> You can upload image then enter a key.
 
-->By clicking the encrypt and decrypt you can emcrypt or de crypt image
+->By clicking the encrypt and decrypt you can encrypt or decrypt image
 
